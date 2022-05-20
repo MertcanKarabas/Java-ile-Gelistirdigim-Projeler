@@ -11,7 +11,7 @@ import java.util.Scanner;
  * @date 31.03.2021
  * @update 04.04.2021
  */
-public class HW2MertcanKarabas {
+public class mainclass {
 
     public static void main(String[] args) {
 
