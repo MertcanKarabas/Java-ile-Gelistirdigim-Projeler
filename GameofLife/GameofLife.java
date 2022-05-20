@@ -2,7 +2,7 @@ package hw3;
 
 import java.util.Scanner;
 
-public class HW3MertcanKarabas {
+public class GameofLife {
 
     /**
      * @info "Game of Life". The area of play is a two-dimensional surface divided into cells, each
