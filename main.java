@@ -6,10 +6,10 @@ import java.util.Scanner;
  * This program is the program that converts the amount of money you enter into
  * currencies.
  *
- * @author Mertcan Karabaþ - 1921221025 
+ * @author Mertcan KarabaÃ¾ - 1921221025 
  * mertcan.karabas@stu.fsm.edu.tr
  */
-public class Prob1MertcanKarabaþ {
+public class mainclass {
 
     public static void main(String[] args) {
 
